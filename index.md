@@ -3,4 +3,4 @@
 ### ***Jason's GitHub Stats***
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-627&show_icons=true&theme=default)
 ### ***Rustdesk***
-#### [**_Rustdesk for Windows (x64)_**](https://help.lotus0.com/Rustdesk/)
+#### [**_Rustdesk for Windows (x64)_**](https://jason-627.github.io/Rustdesk/)
